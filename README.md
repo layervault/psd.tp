@@ -7,4 +7,4 @@ you go!
 
 ## Infos
 
-psd.tp is maintained by [Kelly Sutton](http://github.com/kellysuton) and [Ryan LeFevre](http://github.com/meltingice).
+psd.tp is maintained by [Kelly Sutton](http://github.com/kellysutton) and [Ryan LeFevre](http://github.com/meltingice).
