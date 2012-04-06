@@ -1,0 +1,10 @@
+{
+  "_file": "fixtures/layer_names.psd",
+  "_title": "Layer Names",
+  "psd": {
+    "layers": [
+      { "name" : "LayerVault" },
+      { "name" : "BO RM" }
+    ]
+  }
+}

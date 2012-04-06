@@ -1,0 +1,5 @@
+{
+  "_title"      : "Complete export with 2 layers",
+  "_file"       : "fixtures/2layers_out.psd",
+  "_exports_to" : "controls/2layers_out_control.png"
+}

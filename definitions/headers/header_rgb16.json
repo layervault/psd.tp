@@ -1,0 +1,14 @@
+{
+  "_title": "RGB16 Header",
+  "_file": "fixtures/test-rgb16.psd",
+  "psd": {
+    "header": {
+      "channels"  : 3,
+      "rows"      : 1,
+      "cols"      : 1,
+      "depth"     : 8,
+      "mode"      : 16,
+      "modename"  : "RGBColor"
+    }
+  }
+}

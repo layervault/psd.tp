@@ -1,0 +1,6 @@
+{
+  "_title"        : "Render file out",
+  "_description"  : "First one",
+  "_file"         : "fixtures/layer_out.psd",
+  "_exports_to"   : "controls/layer_out_control.png"
+}

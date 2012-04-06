@@ -1,0 +1,7 @@
+{
+  "_title": "Layer counts",
+  "_file": "fixtures/3layers.psd",
+  "psd": {
+    "_size": { "layers": 3 }
+  }
+}

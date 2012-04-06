@@ -1,0 +1,33 @@
+{
+  "_file": "fixtures/layer_blend_modes.psd",
+  "_title": "Layer blending modes",
+  "psd": {
+    "layers": [
+      { "blending_mode" : "normal" },
+      { "blending_mode" : "dissolve" },
+      { "blending_mode" : "darken" },
+      { "blending_mode" : "multiply" },
+      { "blending_mode" : "color burn" },
+      { "blending_mode" : "linear burn" },
+      { "blending_mode" : "darker color" },
+      { "blending_mode" : "lighten" },
+      { "blending_mode" : "screen" },
+      { "blending_mode" : "color dodge" },
+      { "blending_mode" : "linear dodge" },
+      { "blending_mode" : "lighter color" },
+      { "blending_mode" : "overlay" },
+      { "blending_mode" : "soft light" },
+      { "blending_mode" : "hard light" },
+      { "blending_mode" : "vivid light" },
+      { "blending_mode" : "linear light" },
+      { "blending_mode" : "pin light" },
+      { "blending_mode" : "hard mix" },
+      { "blending_mode" : "difference" },
+      { "blending_mode" : "exclusion" },
+      { "blending_mode" : "hue" },
+      { "blending_mode" : "saturation" },
+      { "blending_mode" : "color" },
+      { "blending_mode" : "luminosity" }
+    ]
+  }
+}

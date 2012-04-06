@@ -1,0 +1,9 @@
+{
+  "_title": "Render a layer out",
+  "_file": "fixtures/layer_out.psd",
+  "psd": {
+    "layers": [
+      { "_exports_to": "controls/layer_out_control.png" }
+    ]
+  }
+}

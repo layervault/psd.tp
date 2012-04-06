@@ -1,0 +1,14 @@
+{
+  "_title": "CMYK Header",
+  "_file": "fixtures/test-cmyk8.psd",
+  "psd": {
+    "header": {
+      "channels"  : 3,
+      "rows"      : 1,
+      "cols"      : 1,
+      "depth"     : 8,
+      "mode"      : 3,
+      "modename"  : "CMYKColor"
+    }
+  }
+}

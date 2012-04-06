@@ -1,0 +1,10 @@
+{
+  "_file": "fixtures/2layers_out.psd",
+  "_title": "Layer Opacities",
+  "psd": {
+    "layers": [
+      { "opacity" : 100.0 },
+      { "opacity" : 50.0 }
+    ]
+  }
+}
