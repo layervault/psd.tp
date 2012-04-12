@@ -1,6 +1,6 @@
 {
-  "_title": "CMYK Header",
-  "_file": "fixtures/test-cmyk8.psd",
+  "_title"  : "CMYK Header",
+  "_file"   : "fixtures/test-cmyk8.psd",
   "psd": {
     "header": {
       "channels"  : 3,
