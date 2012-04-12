@@ -3,8 +3,8 @@
   "_file": "fixtures/2layers_out.psd",
   "psd": {
     "layers": [
-      { "_exports_to" : "controls/2layers_out_layer0.png" },
-      { "_exports_to" : "controls/2layers_out_layer1.png" }
+      { "_exports_to" : "controls/2layers_out_layer1.png" },
+      { "_exports_to" : "controls/2layers_out_layer0.png" }
     ]
   }
 }

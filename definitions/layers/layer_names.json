@@ -3,8 +3,8 @@
   "_title": "Layer Names",
   "psd": {
     "layers": [
-      { "name" : "LayerVault" },
-      { "name" : "BO RM" }
+      { "name" : "BO RM" },
+      { "name" : "LayerVault" }
     ]
   }
 }
